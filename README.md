@@ -1,50 +1,12 @@
-<div style="width:100%">
-    <div style="width:50%;">
-        <div align="center">
-        <img align="center" width="180" height="180" alt="CometChat" src="./Screenshots/logo.png">    
-        </div>    
-    </div>    
-</div>
-
-<br/><br/>
-
-# Open-source Chat Widget Code for Advanced Customization
-
-<p align="left">
-  <a href="https://github.com/cometchat-pro/web-chat-widget-custom/releases/" alt="Releases">
-    <img src="https://img.shields.io/github/v/release/cometchat-pro/web-chat-widget-custom" />
-  </a>
-  <a href="https://twitter.com/CometChat">
-    <img src="https://img.shields.io/twitter/follow/CometChat?label=CometChat&style=social" />
-  </a>
+<p align="center">
+  <img alt="CometChat" src="https://assets.cometchat.io/website/images/logos/banner.png">
 </p>
 
-</br>
+# Open-source Chat Widget Code for Advanced Customization
 
 The Chat Widget simplifies the process of integrating a Chat on your website or mobile apps.
 As a developer, you only need to toggle the widget's settings from our Dashboard and customize it to fit your needs. Within a few minutes, you can get started with our Chat widget.
 
----
-## Features
-- Private(1-1) & Group Conversations
-- Voice & video calling & conferencing
-- Rich Media Attachments
-- Typing Indicators
-- Text, Media and Custom messages
-- Read receipts
-- Online Presence Indicators
-- Message History
-- Users & Friends List
-- Search by users and groups
-- Groups List
-- Conversations List
-- Threaded Conversations
-
-## Extensions
-
- [Thumbnail Generation](https://prodocs.cometchat.com/docs/extensions-thumbnail-generation) | [Link Preview](https://prodocs.cometchat.com/docs/extensions-link-preview) | [Rich Media Preview](https://prodocs.cometchat.com/docs/extensions-rich-media-preview) | [Smart Reply](https://prodocs.cometchat.com/docs/extensions-smart-reply)| [Emojis](https://prodocs.cometchat.com/docs/extensions-emojis) | [Polls](https://prodocs.cometchat.com/docs/extensions-polls) | [Reactions](https://prodocs.cometchat.com/docs/extensions-reactions) | [Stickers](https://prodocs.cometchat.com/docs/extensions-stickers)
-
-  ---
 
 ## Prerequisites
 
@@ -95,35 +57,5 @@ These setting can be broadly categorized as:
 
 4. **Copy all the files from the build directory to your website source code**
 
-
-# Troubleshooting
-
-- To read the full documentation on Chat Widget visit our [Documentation](https://prodocs.cometchat.com/docs/chat-widget).
-
-- Facing any issues while integrating or installing the Chat Widget please connect with us via real time support present in <a href="https://app.cometchat.com/" target="_blank">CometChat Dashboard.</a>
-
----
-
-# Contributors
-
-Thanks to the following people who have contributed to this project:
-
-[👨‍💻 @priyadarshininadar](https://github.com/priyadarshininadar) <br>
-[👨‍💻 @ajaygajra](https://github.com/ajaygajra) <br>
-[👨‍💻 @prathamesh-majgaonkar](https://github.com/prathamesh-majgaonkar) <br>
-[👨‍💻 @mayur-bhandari](https://github.com/mayur-bhandari)
-
-
----
-
-# Contact
-
-Contact us via real time support present in [CometChat Dashboard](https://app.cometchat.com/).
-
----
-
-# License
-
----
-
-This project uses the following [license](https://github.com/cometchat-pro/web-chat-widget-custom/blob/master/LICENSE).
+## Help and Support
+For issues running the project or integrating with our UI Kits, consult our [documentation](https://www.cometchat.com/docs/v3/chat-widgets/overview) or create a [support ticket](https://help.cometchat.com/hc/en-us) or seek real-time support via the [CometChat Dashboard](https://app.cometchat.com/).
